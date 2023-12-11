@@ -1,0 +1,8 @@
+openai
+python-dotenv
+langchain
+BeautifulSoup
+fastapi
+Chroma
+python-multipart
+
